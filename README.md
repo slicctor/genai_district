@@ -4,7 +4,7 @@ This project generates a set of school district rostering data in CSV format usi
 
 ## Requirements
 
-- Python 3.6 or later
+- Python 3.6 or later but before Python 3.12 (I was unable to get 3.12 to work with google.generativeai)
 - `python-dotenv` library
 - `pandas` library
 - `google-generativeai` library
