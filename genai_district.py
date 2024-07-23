@@ -98,7 +98,7 @@ response = genai.GenerativeModel('gemini-1.5-flash-latest').generate_content(
     gemini_prompt,
     generation_config=genai.GenerationConfig(
         response_mime_type="application/json",
-        temperature=0.5
+        temperature=0.7
     )
 )
 
