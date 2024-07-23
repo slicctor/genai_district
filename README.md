@@ -32,6 +32,7 @@ This project generates a set of school district rostering data in CSV format usi
     ```env
     API_KEY=your_gemini_api_key
     ```
+You can generate an API key here: https://aistudio.google.com/app/apikey
 
 ## Usage
 
